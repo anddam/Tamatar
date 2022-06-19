@@ -63,10 +63,10 @@ body {
 #floating-action-button {
     height: 50px;
     width: 50px;
-    background-color: #D50000;
+    background-color: #D57500;
     border-radius: 30px;
     position: absolute;
-    bottom: 10px;
+    top: 10px;
     right: 10px;
     box-shadow: 0 3px 10px 1px rgba(0, 0, 0, 0.24);
     cursor: pointer;
